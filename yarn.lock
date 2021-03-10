@@ -2,31 +2,6 @@
 # yarn lockfile v1
 
 
-"@fantasy-color/normalize-rgb@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@fantasy-color/normalize-rgb/-/normalize-rgb-2.0.1.tgz#ecc275721e6f1fd4fed264424bf3c55ad7b64dce"
-  integrity sha512-D6AGoooZUHDx1XXrpT99mjLnWg8cmWp8t1hF4edPYPNAyIUR9L7b3/4TDsuoauRN3Xcf47j9DapjP61J06OMVA==
-  dependencies:
-    "@fantasy-color/types" "^2.0.1"
-
-"@fantasy-color/rgb-to-srgb@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@fantasy-color/rgb-to-srgb/-/rgb-to-srgb-2.0.1.tgz#5e78470154715a47e00962606c2b055d93403e9c"
-  integrity sha512-yZzS/nku69hQShi1UjY48h2S3bvjZnTyqcsd0/cMs1JukkY6b9lvmcHjv25P4/ZrbOYTziG4oJF1CtGzSggf7A==
-  dependencies:
-    "@fantasy-color/normalize-rgb" "^2.0.1"
-    "@fantasy-color/types" "^2.0.1"
-
-"@fantasy-color/types@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@fantasy-color/types/-/types-2.0.1.tgz#ae0730c46b7c8a151c27d5ec6c4b47bcd608bd1d"
-  integrity sha512-yQqvToxlUT3rKJXf0Tv9XLLsYiGOs2Vw7BAAeDSVVbzWfv+uABTK8htoFdtg63zHMCsZuzwdeE56sdsUGTAIAw==
-
-"@snigos/color@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@snigos/color/-/color-3.0.0.tgz#86c9f6310dec451fe31a7510f7082f93e9b2e751"
-  integrity sha512-73NRNYIc4etx0SMHcj3O90vljORDX4Jc+RUEEexlcENt1h1U9w360+4jvRL65rNEaFsM8029aHuhHOHXVMjF+g==
-
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -110,3 +85,8 @@ wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
+
+xmlbuilder@^15.1.1:
+  version "15.1.1"
+  resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-15.1.1.tgz#9dcdce49eea66d8d10b42cae94a79c3c8d0c2ec5"
+  integrity sha512-yMqGBqtXyeN1e3TGYvgNgDVZ3j84W4cwkOXQswghol6APgZWaff9lnbvN7MHYJOiXsvGPXtjTYJEiC9J2wv9Eg==
