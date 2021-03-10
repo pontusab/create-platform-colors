@@ -1,0 +1,7 @@
+{
+  "default": {
+    "light": "#000000",
+    "dark": "#ffffff"
+  },
+  "accent": "#f1f1f1"
+}
